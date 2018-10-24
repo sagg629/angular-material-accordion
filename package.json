@@ -6,7 +6,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ajsb85/angular-material-accordion.git"
+    "url": "https://github.com/sagg629/angular-material-accordion.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sagg629/angular-material-accordion/issues",
+    "email": "sagg629@gmail.com"
   },
   "scripts": {
     "start": "npm run update-deps & bower i",
@@ -15,6 +19,10 @@
   "authors": [
     "Alexander J. Salas B. <a.salas@ieee.org>"
   ],
+  "contributors": [
+    "Sergio A. Guzmán <sagg629@gmail.com>"
+  ],
+  "private": true,
   "keywords": [
     "Angular",
     "Material",
