@@ -4,3 +4,5 @@ bower_components
 *.log
 .idea/
 
+# NPM lock file
+package-lock.json
