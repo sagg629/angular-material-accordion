@@ -9,7 +9,8 @@
     "url": "https://github.com/ajsb85/angular-material-accordion.git"
   },
   "scripts": {
-    "start": "npm i & bower i"
+    "start": "npm run update-deps & bower i",
+    "update-deps": "npm prune && npm install"
   },
   "authors": [
     "Alexander J. Salas B. <a.salas@ieee.org>"
