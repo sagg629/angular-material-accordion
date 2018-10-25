@@ -13,6 +13,7 @@
     "email": "sagg629@gmail.com"
   },
   "scripts": {
+    "gulp": "gulp",
     "start": "npm run update-deps & bower i",
     "update-deps": "npm prune && npm install"
   },
